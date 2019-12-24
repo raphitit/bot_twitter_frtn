@@ -8,10 +8,10 @@ from twython import Twython, TwythonError
 from datetime import datetime
 import pytz
 
-CONSUMER_KEY = os.environ['TWITTER_CONSUMER_KEY']
-CONSUMER_SECRET = os.environ['TWITTER_CONSUMER_SECRET']
-OAUTH_TOKEN = os.environ['TWITTER_OAUTH_TOKEN']
-OAUTH_TOKEN_SECRET = os.environ['TWITTER_OAUTH_TOKEN_SECRET']
+CONSUMER_KEY = os.environ['k3AlA1eOKu1dQK3CLWx8aKl4Y']
+CONSUMER_SECRET = os.environ['CPbATVVjbkn31BvPudOg32d5LVpPM42LUHOO1PUzBLKgDd87vs']
+OAUTH_TOKEN = os.environ['1208145990626299905-KMtHIAcgOvRWXex8GFXPiBk2vKEkvV ']
+OAUTH_TOKEN_SECRET = os.environ['t7um49fZRaS4Ce21zvTAQ1GJTpdUiFNHm4eKRzou1VMXG']
 TWEET_LENGTH = 280
 TWEET_URL_LENGTH = 21
 #Please do not change anything to this section!
